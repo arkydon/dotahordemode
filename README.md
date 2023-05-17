@@ -1,4 +1,6 @@
 # dotahordemode
+site: https://rentry.co/dotahordemode
+edit code: PNEYYeUt
 
 ## General info
 - Objective is to defend radiant base and destroy horde ancient to win. Generally players leave the  ancient standing and try to survuve as long as possible
